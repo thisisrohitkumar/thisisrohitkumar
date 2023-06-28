@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Frontend Development**
 
-- 📫 How to reach me **thisisrohitkumar@outlook.com**
+- 📫 Mail me at **thisisrohitkumar@outlook.com**
 
 - 📄 Know about my experiences [https://thisisrohitkumar.github.io/portfolio/assets/pdf/Rohit_Kumar-Resume.pdf](https://thisisrohitkumar.github.io/portfolio/assets/pdf/Rohit_Kumar-Resume.pdf)
 
