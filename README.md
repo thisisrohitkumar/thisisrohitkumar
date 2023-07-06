@@ -1,4 +1,4 @@
-<img src="https://www.freecodecamp.org/news/content/images/size/w2000/2020/03/illustration_cover.png">
+
 <h1 align="center">👋 Hi There, I'm Rohit Kumar</h1>
 <h3 align="center">A super passionate full stack developer from the city of Nawabs - Lucknow, India</h3>
 
