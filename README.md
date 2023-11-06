@@ -8,7 +8,7 @@
 
 - 🔭 I’m pursuing MCA from [National Institute of Technology Karnataka](https://www.nitk.ac.in/)
 
-- 🌱 I’m currently learning **Flutter Framework**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 👨‍💻 All of my projects are available at [https://thisisrohitkumar.github.io/portfolio/](https://thisisrohitkumar.github.io/portfolio/)
 
