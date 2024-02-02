@@ -16,7 +16,7 @@
 
 - 📫 Mail me at **thisisrohitkumar@outlook.com**
 
-- 📄 Know about my experiences [https://thisisrohitkumar.github.io/portfolio/assets/pdf/Rohit_Kumar-Resume.pdf](https://thisisrohitkumar.github.io/portfolio/assets/pdf/Rohit_Kumar-Resume.pdf)
+- 📄 Know about my experiences [https://thisisrohitkumar.github.io/portfolio/assets/pdf/Rohit_Kumar-Resume.pdf](https://thisisrohitkumar.github.io/portfolio/assets/pdf/Rohit_Kumar_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
