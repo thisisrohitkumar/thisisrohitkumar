@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **MERN STACK**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://thisisrohitkumar.github.io/portfolio/)
 - 💬 Ask me about **Frontend Development**
-- 📫 Reach me at **thisisrohitkumar@outlook.com**
+- 📫 Reach me at **rohitkumar.jsx@gmail.com**
 - 📄 Know about my experiences [My Resume](https://thisisrohitkumar.github.io/portfolio/assets/pdf/Rohit_Kumar_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
