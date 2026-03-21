@@ -6,7 +6,7 @@ Web Developer and Designer
 
 With a keen eye for detail and a love for crafting seamless user experiences, I bring designs to life in the digital realm.
 
-* 🌍  I'm based in Mangalore
+* 🌍  I'm based in Bangalore
 * 🖥️  See my portfolio at [My Portfolio](http://thisisrohitkumar.github.io/portfolio)
 * ✉️  You can contact me at [rohitkumar.jsx@gmail.com](mailto:rohitkumar.jsx@gmail.com)
 * 🧠  I'm learning TypeScript
