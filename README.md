@@ -1,32 +1,150 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rohit Kumar
-===================================================================================================================================
+<div align="center">
 
-Web Developer and Designer
---------------------------
+# Hi 👋 I'm Rohit Kumar
 
-With a keen eye for detail and a love for crafting seamless user experiences, I bring designs to life in the digital realm.
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Engineer;AI+Enthusiast;UI%2FUX+Designer&center=true&width=500&height=45">
 
-* 🌍  I'm based in Bangalore
-* 🖥️  See my portfolio at [My Portfolio](http://thisisrohitkumar.github.io/portfolio)
-* ✉️  You can contact me at [rohitkumar.jsx@gmail.com](mailto:rohitkumar.jsx@gmail.com)
-* 🧠  I'm learning TypeScript
+</div>
 
-### Skills
+---
 
+## 🚀 About Me
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+💻 Software Engineer passionate about building scalable applications and AI-powered tools.
+
+- 🌍 Based in **Bangalore, India**
+- 🎓 MCA Graduate from **NITK Surathkal**
+- 💼 Working as **Software Development Engineer**
+- 🧠 Currently exploring **AI Agents, Computer Vision & Intelligent Automation**
+- 🎯 Interests: **UI/UX Design, AI Systems, Full Stack Development**
+
+📎 Portfolio:  
+http://thisisrohitkumar.github.io/portfolio
+
+📫 Email:  
+rohitkumar.jsx@gmail.com
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+![JavaScript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
+
+### Frontend
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+
+### Backend
+![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma)
+
+---
+
+# 🚀 Featured Projects
+
+### 🧠 Career Mitra
+AI-powered job search and recruitment platform.
+
+Features
+- Personalized job recommendations
+- Applicant Tracking System
+- Resume review using **Naive Bayes**
+- ATS score improvement suggestions
+
+---
+
+### 🛵 OptiX – Automated Two-Wheeler Damage Detection
+
+AI system for detecting vehicle damages from images.
+
+- Uses **Google Gemini Flash 2.0 Pro**
+- Helps automate insurance claim assessment
+- Designed for scalable vehicle inspection workflows
+
+---
+
+### 📊 Vehicle Stoppage Visualization System
+
+Interactive GPS analytics tool.
+
+- Built with **React + OpenLayers**
+- Detects stoppage events
+- Displays travel analytics on map
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=thisisrohitkumar&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thisisrohitkumar&theme=tokyonight&hide_border=true"/>
+
 </p>
 
+---
 
-### Socials
+# 📈 Most Used Languages
 
-<p align="left"> <a href="https://www.github.com/thisisrohitkumar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/thisisrohitkumar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/thisisrohitkumar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/Er_Rohit_Kumar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+<p align="center">
 
-### Badges
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisrohitkumar&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<b>My GitHub Stats</b>
+</p>
 
-<a href="http://www.github.com/thisisrohitkumar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thisisrohitkumar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+---
 
-<a href="https://github.com/thisisrohitkumar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisrohitkumar&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+# 📊 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thisisrohitkumar&theme=tokyo-night&hide_border=true"/>
+
+---
+
+# 🐍 Contribution Snake
+
+![snake gif](https://github.com/thisisrohitkumar/thisisrohitkumar/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/thisisrohitkumar">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/thisisrohitkumar">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://instagram.com/thisisrohitkumar">
+<img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram"/>
+</a>
+
+<a href="https://x.com/Er_Rohit_Kumar">
+<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter"/>
+</a>
+
+</p>
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=thisisrohitkumar&style=for-the-badge">
+
+⭐️ Always building, always learning.
