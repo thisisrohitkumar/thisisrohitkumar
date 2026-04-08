@@ -2,7 +2,7 @@
 
 # Hi 👋 I'm Rohit Kumar
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Engineer;AI+Enthusiast;UI%2FUX+Designer&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Development+Engineer;Full+Stack+Developer;Python+Developer;MERN+Stack+Developer;AI+Enthusiast;UI%2FUX+Designer&center=true&width=500&height=45">
 
 </div>
 
@@ -14,9 +14,9 @@
 
 - 🌍 Based in **Bangalore, India**
 - 🎓 MCA Graduate from **NITK Surathkal**
-- 💼 Working as **Software Development Engineer**
+- 💼 Working as **Software Development Engineer - I**
 - 🧠 Currently exploring **AI Agents, Computer Vision & Intelligent Automation**
-- 🎯 Interests: **UI/UX Design, AI Systems, Full Stack Development**
+- 🎯 Interests: **UI/UX Design, AI Systems, Full Stack Development, Software Engineering**
 
 📎 Portfolio:  
 http://thisisrohitkumar.github.io/portfolio
